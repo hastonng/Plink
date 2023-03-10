@@ -190,7 +190,7 @@ class DD_Automation:
                     "_invitorId": "",
                     "language": "en",
                     "aliens": [],
-                    "strikerAuth": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiI2MTkyMmExNDE1MjJlNjdiOTUzZWMyN2IiLCJleHAiOjE2NjIwNDcxNjgsInN0b3JhZ2UiOiJzdHJpa2VyLWh6In0.thM4sSbQNECp6mcZJO0HnQBjAFjF400UQHCaXVnWzCk",
+                    "strikerAuth": "",
                     "phoneForLogin": "",
                     "enabledGoogleTwoFactor": False,
                     "snapperToken": "",
